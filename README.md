@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://explorebytes101.blogspot.com/](https://explorebytes101.blogspot.com/)
 
-- 💬 Ask me about **ESP32 microcontrollers, IoT and electronics**
+- 💬 Ask me about **Microcontrollers, IoT and electronics**
 
 - 📫 How to reach me **https://lk.linkedin.com/in/dasuni-saparamadu**
 
