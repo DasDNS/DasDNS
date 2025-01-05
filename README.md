@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **https://lk.linkedin.com/in/dasuni-saparamadu**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
