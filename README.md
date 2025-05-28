@@ -31,6 +31,8 @@ A passionate Embedded Software/Firmware Engineer from Sri Lanka.<br><br>
   <img src="https://img.shields.io/badge/STM32CubeProgrammer-%23007ACC.svg?style=for-the-badge&logo=STMicroelectronics&logoColor=white"/>
   <img src="https://img.shields.io/badge/PlatformIO-FF6600?style=for-the-badge&logo=platformio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
 <!-- Simulation & Robotics -->
@@ -38,6 +40,8 @@ A passionate Embedded Software/Firmware Engineer from Sri Lanka.<br><br>
 <p>
   <img src="https://img.shields.io/badge/Renode-3E3E3E?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/RoboDK-orange?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LabVIEW-FFDB00?style=for-the-badge&logo=national-instruments&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
 </p>
 
 <!-- Data & Visualization -->
@@ -59,7 +63,6 @@ A passionate Embedded Software/Firmware Engineer from Sri Lanka.<br><br>
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white"/>
 </p>
-
 
 
 # 📊 GitHub Stats:
