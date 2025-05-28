@@ -1,26 +1,28 @@
 # 💫 About Me:
 Hi 👋, I'm Dasuni Saparamadu.<br>
 A passionate Embedded Software/Firmware Engineer from Sri Lanka.<br><br>
-🔧 Currently working on:  
-![STM32](https://img.shields.io/badge/STM32-%230074CE.svg?style=for-the-badge&logo=STMicroelectronics&logoColor=white) 
-![ESP32](https://img.shields.io/badge/ESP32-%23FF6F00.svg?style=for-the-badge&logo=Espressif&logoColor=white) 
-![Embedded Linux](https://img.shields.io/badge/Embedded%20Linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white)  
-![DSP](https://img.shields.io/badge/Digital%20Signal%20Processing-%23232F3E.svg?style=for-the-badge&logo=code&logoColor=white) 
-![IoT](https://img.shields.io/badge/IoT-%23007ACC.svg?style=for-the-badge&logo=cloud&logoColor=white) 
-![IIoT](https://img.shields.io/badge/IIoT-%23009688.svg?style=for-the-badge&logo=industry&logoColor=white)
+
+🔧 Currently working with:<br>
+🚀 STM32 and ESP32 Microcontrollers<br>
+🐧 Embedded Linux Systems<br>
+🎧 Digital Signal Processing (DSP)<br>
+🌐 Internet of Things (IoT) & Industrial IoT (IIoT)<br>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://lk.linkedin.com/in/dasuni-saparamadu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dasuni-saparamadu) 
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
+
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
@@ -34,6 +36,11 @@ A passionate Embedded Software/Firmware Engineer from Sri Lanka.<br><br>
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) 
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 ![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white)
+
+![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![STM32CubeProgrammer](https://img.shields.io/badge/STM32CubeProgrammer-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![RoboDK](https://img.shields.io/badge/RoboDK-FF8000?style=for-the-badge&logoColor=white)
+![Renode](https://img.shields.io/badge/Renode-607D8B?style=for-the-badge&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DasDNS&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
