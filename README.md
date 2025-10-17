@@ -1,4 +1,5 @@
 # 💫 About Me:
+ Hi, 👋 I'm **Dasuni Saparamadu**. 
 A passionate Embedded Software/Firmware Engineer from Sri Lanka.<br><br>
 
 # 🔧 Currently working with:
