@@ -15,7 +15,7 @@ Designing low-power embedded and robotic systems powered by sensing, vision, and
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dasuni-saparamadu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dasuni-saparamadu)
 
 ---
 
@@ -112,7 +112,7 @@ Designing low-power embedded and robotic systems powered by sensing, vision, and
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DasDNS&theme=gruvbox&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=DasDNS&theme=gruvbox&no-bg=false&no-frame=false&margin-w=4)
 
 ---
 
