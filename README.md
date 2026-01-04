@@ -37,8 +37,6 @@ Designing low-power embedded and robotic systems powered by sensing, vision, and
 <p>
   <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ESP--IDF-000000?style=for-the-badge&logo=espressif&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FreeRTOS-00979D?style=for-the-badge&logo=freertos&logoColor=white"/>
   <img src="https://img.shields.io/badge/I2C%20%7C%20SPI%20%7C%20UART-555555?style=for-the-badge"/>
 </p>
 
@@ -92,7 +90,6 @@ Designing low-power embedded and robotic systems powered by sensing, vision, and
 <b>Hardware Design:</b><br>
 <p>
   <img src="https://img.shields.io/badge/EasyEDA-1765F6?style=for-the-badge&logo=easyeda&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PCB%20Design-555555?style=for-the-badge"/>
 </p>
 
 <!-- Tools & Ecosystem -->
@@ -103,7 +100,6 @@ Designing low-power embedded and robotic systems powered by sensing, vision, and
   <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white"/>
 </p>
 
 ---
