@@ -1,6 +1,6 @@
 # 💫 About Me:
  Hi, 👋 I'm **Dasuni Saparamadu**. </br>
-A determined Embedded Software/Firmware Engineer from Sri Lanka.<br>
+An emerging Embedded Software/Firmware Engineer from Sri Lanka.<br>
 Designing low-power embedded systems that sense, process, and act in the real world.<br>
 <br>
 
