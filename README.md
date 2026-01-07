@@ -111,11 +111,6 @@ Designing low-power embedded and robotic systems powered by sensing, vision, and
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DasDNS&theme=gruvbox&no-bg=false&no-frame=false&margin-w=4)
-
----
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
