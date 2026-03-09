@@ -107,7 +107,6 @@ Designing low-power embedded and robotic systems powered by sensing, vision, and
   <img src="https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
   <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
 </p>
----
 
 # 📊 GitHub Stats:
 
