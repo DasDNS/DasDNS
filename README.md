@@ -110,7 +110,8 @@ Designing low-power embedded and robotic systems powered by sensing, vision, and
 
 # 📊 GitHub Stats:
 
-![](https://my-github-readme-stats-nu-sandy.vercel.app/api?username=DasDNS&theme=dark&hide_border=false&count_private=true&include_all_commits=true<br/>
+![](https://my-github-readme-stats-nu-sandy.vercel.app/apiusername=DasDNS&theme=dark&hide_border=false&count_private=true&include_all_commits=true)
+<br/>
 ![](https://my-github-readme-stats-nu-sandy.vercel.app/api/top-langs/?username=DasDNS&theme=dark&layout=compact&langs_count=8&hide_border=false)<br/>
 
 ---
